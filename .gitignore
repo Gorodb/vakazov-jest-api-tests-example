@@ -1,0 +1,16 @@
+# Project
+allure-results/
+allure-report/
+
+# OSX
+.DS_Store
+
+# IDE
+.idea/
+
+# node.js
+node_modules/
+npm-debug.log
+
+# secrets
+.env
